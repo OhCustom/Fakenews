@@ -1,11 +1,10 @@
 from flask import *
 
-def main():
-    app = Flask()
+app = Flask(__name__)
 
-
+@app.route
 
 
 
 if __name__ == "__main__":
-    main()
+    app.run()
