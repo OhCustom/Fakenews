@@ -1,0 +1,3 @@
+# Fakenews
+
+Bullshit conspiricy theorys
