@@ -1,2 +1,1 @@
-import flask
-
+import flask as Flask;
