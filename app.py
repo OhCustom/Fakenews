@@ -1,2 +1,4 @@
-import flask
+from flask import *
 
+def main():
+    app = Flask()
